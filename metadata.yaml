@@ -1,0 +1,34 @@
+_repo: Behind-the-prison-bars-b-A-reminder-of-our-duties-toward-those-who-have-been-so-unfortunate-a__75420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byrum, E. E. (Enoch Edwin)
+    alias: Byrum, Enoch Edwin
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '38294'
+    url: http://www.gutenberg.org/2009/agents/38294
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75420'
+  lccn: 01022083
+language: en
+pgterms:marc905: 20240915120219byrum
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Bob Taylor, and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aMoundsville, WV :$bGospel Trumpet Publishing Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons'
+- !lcsh 'Prisons -- West Virginia'
+- !lcc 'HV'
+- GITenberg
+title: 'Behind the prison bars : $b A reminder of our duties toward those who have
+  been so unfortunate as to be cast into prison'
+url: http://www.gutenberg.org/ebooks/75420
