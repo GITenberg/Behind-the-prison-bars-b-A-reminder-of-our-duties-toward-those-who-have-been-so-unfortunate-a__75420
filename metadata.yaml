@@ -1,5 +1,8 @@
 _repo: Behind-the-prison-bars-b-A-reminder-of-our-duties-toward-those-who-have-been-so-unfortunate-a__75420
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75420-h/images/cover.jpg
 creator:
   author:
     agent_name: Byrum, E. E. (Enoch Edwin)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '38294'
     url: http://www.gutenberg.org/2009/agents/38294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75420#Behind-the-prison-bars-b-A-reminder-of-our-duties-toward-those-who-have-been-so-unfortunate-a_
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
